@@ -1,4 +1,4 @@
-# Summer-2023-ROP
+# ROP299-Heterogeneity-Fourier-Transform
 Code for ROP project on "Accelerating Dataset Heterogeneity Assessment with Fourier-Transformed Features". IRMA X-Ray images/data from [Kaggle](https://www.kaggle.com/datasets/raddar/irma-xray-dataset).
 
 Files:
